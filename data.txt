@@ -1,0 +1,3 @@
+Name: NoMad
+Age:19
+Favourite Color: White
